@@ -16,8 +16,9 @@ $(document).ready(function () {
         });
         $('#letter_list').append(letters);
         $("#letter_list div:first").addClass("active");
-        $('#carouselLetter').carousel({
-            ride: false
-        })
+        $('.carousel').carousel('pause');
+        // $('.carousel').carousel({
+        //     interval: 500
+        //   })
     });
 });

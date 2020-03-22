@@ -2,7 +2,36 @@
     background-color: #21D4FD;
     background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
 }
+.text-line text {
+    stroke-dasharray: 500;
+    stroke-dashoffset: 500;
+    animation: dash 5s linear forwards, filling 4s ease-in forwards;
+  }
+  
+  @keyframes dash {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes filling {
+    from{
+      fill: #FFFFFF;
+      fill-opacity: 0;
+    }
+    to {
+      fill: #FFFFFF;
+      fill-opacity: 0;
+    }
+  }
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    font-size: 5em;
+    color: #F00;
+}
+a, a:hover {
+    text-decoration: none;
+}
 .caps-letter {
-    font-size: 4em;
-    font-weight: 700;
+    font-size: 3em;
+    font-weight: bold;
 }
