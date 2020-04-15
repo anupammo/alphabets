@@ -1,82 +1,20 @@
 [
     {
         "asciinum": "65",
-        "pica1": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+        "pic1": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic2": "https://images.pexels.com/photos/1086882/pexels-photo-1086882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic3": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic4": "https://images.pexels.com/photos/203553/pexels-photo-203553.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic5": "https://images.pexels.com/photos/1257770/pexels-photo-1257770.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic6": "https://images.pexels.com/photos/39571/gorilla-silverback-animal-silvery-grey-39571.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150"
     },
     {
         "asciinum": "66",
-        "pica1": "https://images.pexels.com/photos/364308/pexels-photo-364308.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
-    },
-    {
-        "capletters": "C"
-    },
-    {
-        "capletters": "D"
-    },
-    {
-        "capletters": "E"
-    },
-    {
-        "capletters": "F"
-    },
-    {
-        "capletters": "G"
-    },
-    {
-        "capletters": "H"
-    },
-    {
-        "capletters": "I"
-    },
-    {
-        "capletters": "J"
-    },
-    {
-        "capletters": "K"
-    },
-    {
-        "capletters": "L"
-    },
-    {
-        "capletters": "M"
-    },
-    {
-        "capletters": "N"
-    },
-    {
-        "capletters": "O"
-    },
-    {
-        "capletters": "P"
-    },
-    {
-        "capletters": "Q"
-    },
-    {
-        "capletters": "R"
-    },
-    {
-        "capletters": "S"
-    },
-    {
-        "capletters": "T"
-    },
-    {
-        "capletters": "U"
-    },
-    {
-        "capletters": "V"
-    },
-    {
-        "capletters": "W"
-    },
-    {
-        "capletters": "X"
-    },
-    {
-        "capletters": "Y"
-    },
-    {
-        "capletters": "Z"
+        "pic1": "https://images.pexels.com/photos/364308/pexels-photo-364308.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic2": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic3": "https://images.pexels.com/photos/226562/pexels-photo-226562.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic4": "https://images.pexels.com/photos/162368/bear-zoo-wildlife-animal-162368.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic5": "https://images.pexels.com/photos/234196/pexels-photo-234196.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
+        "pic6": "https://images.pexels.com/photos/349758/hummingbird-bird-birds-349758.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150"
     }
 ]

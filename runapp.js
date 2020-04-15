@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $.getJSON("alphabets.json", function (data) {
+    $.getJSON("json", "alphabets.json", function (data) {
         var letters = '';
         $.each(data, function (key, value) {
             letters += '<div class="carousel-item">';
