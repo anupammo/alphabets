@@ -1,51 +1,141 @@
 [
     {
         "asciinum": "65",
-        "pic1": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic2": "https://images.pexels.com/photos/1086882/pexels-photo-1086882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic3": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic4": "https://images.pexels.com/photos/203553/pexels-photo-203553.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic5": "https://images.pexels.com/photos/1257770/pexels-photo-1257770.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic6": "https://images.pexels.com/photos/39571/gorilla-silverback-animal-silvery-grey-39571.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150"
+        "pic1": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/1086882/pexels-photo-1086882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/203553/pexels-photo-203553.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/1257770/pexels-photo-1257770.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/39571/gorilla-silverback-animal-silvery-grey-39571.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
     },
     {
         "asciinum": "66",
-        "pic1": "https://images.pexels.com/photos/364308/pexels-photo-364308.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic2": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic3": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic4": "https://images.pexels.com/photos/162368/bear-zoo-wildlife-animal-162368.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic5": "https://images.pexels.com/photos/234196/pexels-photo-234196.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150",
-        "pic6": "https://images.pexels.com/photos/349758/hummingbird-bird-birds-349758.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=150"
+        "pic1": "https://images.pexels.com/photos/364308/pexels-photo-364308.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/162368/bear-zoo-wildlife-animal-162368.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/234196/pexels-photo-234196.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/349758/hummingbird-bird-birds-349758.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
     },
     {
         "asciinum": "67",
-        "pic1": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic2": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic3": "https://images.pexels.com/photos/1198264/pexels-photo-1198264.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic4": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic5": "https://images.pexels.com/photos/806363/pexels-photo-806363.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic6": "https://images.pexels.com/photos/839265/pexels-photo-839265.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "pic1": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/234791/pexels-photo-234791.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/2080192/pexels-photo-2080192.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/1198264/pexels-photo-1198264.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/2144200/pexels-photo-2144200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
     },
     {
         "asciinum": "68",
-        "pic1": "https://images.pexels.com/photos/59523/pexels-photo-59523.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic2": "https://images.pexels.com/photos/3944/old-dolls-puppets-toys.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic3": "https://images.pexels.com/photos/1689073/pexels-photo-1689073.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic4": "https://images.pexels.com/photos/1579683/pexels-photo-1579683.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic5": "https://images.pexels.com/photos/705171/dice-eyes-luck-game-705171.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic6": "https://images.pexels.com/photos/410859/pexels-photo-410859.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "pic1": "https://images.pexels.com/photos/59523/pexels-photo-59523.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/3944/old-dolls-puppets-toys.jpg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/1689073/pexels-photo-1689073.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/785059/pexels-photo-785059.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/705171/dice-eyes-luck-game-705171.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/410859/pexels-photo-410859.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
     },
     {
         "asciinum": "69",
-        "pic1": "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic2": "https://images.pexels.com/photos/162712/egg-white-food-protein-162712.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic3": "https://images.pexels.com/photos/35202/eraser-office-supplies-office-office-accessories.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic4": "https://images.pexels.com/photos/862122/pexels-photo-862122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic5": "https://images.pexels.com/photos/321551/pexels-photo-321551.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "pic6": ""
+        "pic1": "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/162712/egg-white-food-protein-162712.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/35202/eraser-office-supplies-office-office-accessories.jpg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/862122/pexels-photo-862122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/374765/pexels-photo-374765.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/269724/pexels-photo-269724.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
     },
     {
         "asciinum": "70",
+        "pic1": "https://images.pexels.com/photos/76957/tree-frog-frog-red-eyed-amphibian-76957.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/1112007/pexels-photo-1112007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/414249/pexels-photo-414249.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/36753/flower-purple-lical-blosso.jpg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/42220/air-blade-blowing-chrome-42220.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/1318340/pexels-photo-1318340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
+    },
+    {
+        "asciinum": "71",
+        "pic1": "https://images.pexels.com/photos/1442005/pexels-photo-1442005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/928854/pexels-photo-928854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/865435/pexels-photo-865435.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/192538/pexels-photo-192538.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/37910/billy-goat-goat-goatee-animal-37910.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/60021/grapes-wine-fruit-vines-60021.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
+    },
+    {
+        "asciinum": "72",
+        "pic1": "https://images.pexels.com/photos/1769271/pexels-photo-1769271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/1996338/pexels-photo-1996338.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/6371/red-love-heart-valentines.jpg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/601168/pexels-photo-601168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/1549308/pexels-photo-1549308.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
+    },
+    {
+        "asciinum": "73",
+        "pic1": "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/53422/ironing-iron-press-clothing-53422.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/1040713/pexels-photo-1040713.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/59981/grasshopper-insect-nature-animal-59981.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/325946/pexels-photo-325946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
+    },
+    {
+        "asciinum": "74",
+        "pic1": "https://images.pexels.com/photos/3969097/pexels-photo-3969097.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic2": "https://images.pexels.com/photos/1000654/pexels-photo-1000654.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic3": "https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic4": "https://images.pexels.com/photos/1082529/pexels-photo-1082529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic5": "https://images.pexels.com/photos/1638459/pexels-photo-1638459.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250",
+        "pic6": "https://images.pexels.com/photos/2970502/pexels-photo-2970502.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=250"
+    },
+    {
+        "asciinum": "75",
+        "pic1": "",
+        "pic2": "",
+        "pic3": "",
+        "pic4": "",
+        "pic5": "",
+        "pic6": ""
+    },
+    {
+        "asciinum": "76",
+        "pic1": "",
+        "pic2": "",
+        "pic3": "",
+        "pic4": "",
+        "pic5": "",
+        "pic6": ""
+    },
+    {
+        "asciinum": "77",
+        "pic1": "",
+        "pic2": "",
+        "pic3": "",
+        "pic4": "",
+        "pic5": "",
+        "pic6": ""
+    },
+    {
+        "asciinum": "78",
+        "pic1": "",
+        "pic2": "",
+        "pic3": "",
+        "pic4": "",
+        "pic5": "",
+        "pic6": ""
+    },
+    {
+        "asciinum": "79",
+        "pic1": "",
+        "pic2": "",
+        "pic3": "",
+        "pic4": "",
+        "pic5": "",
+        "pic6": ""
+    },
+    {
+        "asciinum": "80",
         "pic1": "",
         "pic2": "",
         "pic3": "",
