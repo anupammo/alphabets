@@ -3,9 +3,9 @@
     background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
 }
 .text-line text {
-    stroke-dasharray: 500;
-    stroke-dashoffset: 500;
-    animation: dash 5s linear forwards, filling 4s ease-in forwards;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    animation: dash 3s linear infinite, filling 2s ease-in-out infinite;
   }
   
   @keyframes dash {
@@ -34,4 +34,8 @@ a, a:hover {
 .caps-letter {
     font-size: 3em;
     font-weight: bold;
+}
+.card-bg {
+  background-color: #00000080;
+  text-shadow: #000 0 0 4px;
 }
