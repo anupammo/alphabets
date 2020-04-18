@@ -18,6 +18,12 @@
                     $( "#piclink4" ).attr( "src", value.pic4 ).appendTo( "#piclink4" );
                     $( "#piclink5" ).attr( "src", value.pic5 ).appendTo( "#piclink5" );
                     $( "#piclink6" ).attr( "src", value.pic6 ).appendTo( "#piclink6" );
+                    $( "#alt-name1" ).text( value.txt1 ).appendTo( "#alt-name1" );
+                    $( "#alt-name2" ).text( value.txt2 ).appendTo( "#alt-name2" );
+                    $( "#alt-name3" ).text( value.txt3 ).appendTo( "#alt-name3" );
+                    $( "#alt-name4" ).text( value.txt4 ).appendTo( "#alt-name4" );
+                    $( "#alt-name5" ).text( value.txt5 ).appendTo( "#alt-name5" );
+                    $( "#alt-name6" ).text( value.txt6 ).appendTo( "#alt-name6" );
                 }
     
             });
@@ -44,6 +50,12 @@
                         $( "#piclink4" ).attr( "src", value.pic4 ).appendTo( "#piclink4" );
                         $( "#piclink5" ).attr( "src", value.pic5 ).appendTo( "#piclink5" );
                         $( "#piclink6" ).attr( "src", value.pic6 ).appendTo( "#piclink6" );
+                        $( "#alt-name1" ).text( value.txt1 ).appendTo( "#alt-name1" );
+                        $( "#alt-name2" ).text( value.txt2 ).appendTo( "#alt-name2" );
+                        $( "#alt-name3" ).text( value.txt3 ).appendTo( "#alt-name3" );
+                        $( "#alt-name4" ).text( value.txt4 ).appendTo( "#alt-name4" );
+                        $( "#alt-name5" ).text( value.txt5 ).appendTo( "#alt-name5" );
+                        $( "#alt-name6" ).text( value.txt6 ).appendTo( "#alt-name6" );
                     }
         
                 });
@@ -79,6 +91,12 @@
                         $( "#piclink4" ).attr( "src", value.pic4 ).appendTo( "#piclink4" );
                         $( "#piclink5" ).attr( "src", value.pic5 ).appendTo( "#piclink5" );
                         $( "#piclink6" ).attr( "src", value.pic6 ).appendTo( "#piclink6" );
+                        $( "#alt-name1" ).text( value.txt1 ).appendTo( "#alt-name1" );
+                        $( "#alt-name2" ).text( value.txt2 ).appendTo( "#alt-name2" );
+                        $( "#alt-name3" ).text( value.txt3 ).appendTo( "#alt-name3" );
+                        $( "#alt-name4" ).text( value.txt4 ).appendTo( "#alt-name4" );
+                        $( "#alt-name5" ).text( value.txt5 ).appendTo( "#alt-name5" );
+                        $( "#alt-name6" ).text( value.txt6 ).appendTo( "#alt-name6" );
                     }
         
                 });

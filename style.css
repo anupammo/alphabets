@@ -1,3 +1,4 @@
+
 .header-bg {
     background-color: #21D4FD;
     background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
@@ -38,4 +39,17 @@ a, a:hover {
 .card-bg {
   background-color: #00000080;
   text-shadow: #000 0 0 4px;
+}
+/* Style for Names with Letter */
+h1 strong#capital-abcd {
+  font-size: 6em;
+}
+.card:hover img#piclink1, .card:hover img#piclink2, .card:hover img#piclink3, .card:hover img#piclink4, .card:hover img#piclink5, .card:hover img#piclink6 {
+  filter: brightness(120%);
+}
+.card:hover {
+  cursor: zoom-in;
+}
+.card:hover p#alt-name1, .card:hover p#alt-name2, .card:hover p#alt-name3, .card:hover p#alt-name4, .card:hover p#alt-name5, .card:hover p#alt-name6 {
+  color: #0000ff;
 }
