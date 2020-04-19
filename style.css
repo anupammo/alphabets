@@ -66,3 +66,7 @@ h2#prev-cap:hover strong, h2#next-cap:hover strong {
 .card:hover p#alt-name1, .card:hover p#alt-name2, .card:hover p#alt-name3, .card:hover p#alt-name4, .card:hover p#alt-name5, .card:hover p#alt-name6 {
   color: #0000ff;
 }
+/* Style for Capital Letters */
+h1#capital-abc strong#capital-abcd {
+  font-size: 6em;
+}
