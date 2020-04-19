@@ -44,9 +44,18 @@ a, a:hover {
 h1 strong#capital-abcd {
   font-size: 3em;
 }
+@media screen and (max-width: 575px) {
+  h2#prev-cap strong, h2#next-cap strong {
+    font-size: 2em !important;
+  }
+}
 h2#prev-cap strong, h2#next-cap strong {
   font-size: 2.5em;
   cursor: pointer;
+  transition: ease-in-out 0.3s;
+}
+h2#prev-cap:hover strong, h2#next-cap:hover strong {
+  color: #0000ff;
 }
 .card:hover img#piclink1, .card:hover img#piclink2, .card:hover img#piclink3, .card:hover img#piclink4, .card:hover img#piclink5, .card:hover img#piclink6 {
   filter: brightness(120%);
