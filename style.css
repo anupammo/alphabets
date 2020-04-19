@@ -42,7 +42,11 @@ a, a:hover {
 }
 /* Style for Names with Letter */
 h1 strong#capital-abcd {
-  font-size: 6em;
+  font-size: 3em;
+}
+h2#prev-cap strong, h2#next-cap strong {
+  font-size: 2.5em;
+  cursor: pointer;
 }
 .card:hover img#piclink1, .card:hover img#piclink2, .card:hover img#piclink3, .card:hover img#piclink4, .card:hover img#piclink5, .card:hover img#piclink6 {
   filter: brightness(120%);
