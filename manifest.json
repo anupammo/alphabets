@@ -49,6 +49,6 @@
     "start_url": "https://anupammo.github.io/alphabets",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/alphabets",
     "theme_color": "#007bff"
 }
