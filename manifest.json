@@ -49,5 +49,6 @@
     "start_url": "/",
     "background_color": "#ffffff",
     "display": "standalone",
+    "scope": "../",
     "theme_color": "#007bff"
 }
