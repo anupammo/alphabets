@@ -46,7 +46,7 @@
             "density": "4.0"
         }
     ],
-    "start_url": "/alphabets",
+    "start_url": "/",
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
