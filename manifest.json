@@ -49,6 +49,6 @@
     "start_url": "/alphabets",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "../",
+    "scope": "/manifest.json",
     "theme_color": "#007bff"
 }
