@@ -46,9 +46,9 @@
             "density": "4.0"
         }
     ],
-    "start_url": "https://anupammo.github.io/alphabets",
+    "start_url": "/?source=pwa",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "/alphabets",
+    "scope": "/",
     "theme_color": "#007bff"
 }
