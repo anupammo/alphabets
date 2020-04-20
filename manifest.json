@@ -46,9 +46,9 @@
             "density": "4.0"
         }
     ],
-    "start_url": "/alphabets",
+    "start_url": "/",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "/manifest.json",
+    "scope": "/",
     "theme_color": "#007bff"
 }
