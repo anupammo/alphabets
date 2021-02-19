@@ -5,8 +5,9 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="theme-color" content="#007bff"/>
-    <meta name="description" content="Kids are learnig in funway with ikidS. Learning Letters, Numbers, alphabets anywhere from mobile to PC in a funway.">
+    <meta name="theme-color" content="#007bff" />
+    <meta name="description"
+        content="Kids are learnig in funway with ikidS. Learning Letters, Numbers, alphabets anywhere from mobile to PC in a funway.">
     <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
@@ -16,7 +17,7 @@
     <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -25,20 +26,67 @@
     <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <title>Homepage | ikids</title>
+    <title>ikid Homepage</title>
 </head>
 
 <body>
     <header class="header-bg">
         <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="./">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Alphabets
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="abc-phonics.html">ABC Phonics</a>
+                                <a class="dropdown-item" href="capital-letters.html">Capital Letters</a>
+                                <a class="dropdown-item" href="small-letters.html">Small Letters</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                বাংলা
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">স্বরবর্ণ</a>
+                                <a class="dropdown-item" href="#">ব্যঞ্জনবর্ণ</a>
+                                <a class="dropdown-item" href="#">সংখ্যা</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Numbers
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="numbers.html">123</a>
+                                <a class="dropdown-item" href="#">+Sum</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
             <div class="row">
                 <div class="col-12">
-                    <svg width="280" height="200" stroke="#FFFFFF" stroke-width="1"
-                        class="my-4 text-line mx-auto d-block">
-                        <text style="font-weight: 900;" x="0" y="130" fill="none" font-size="6.8em">ikidS</text>
+                    <svg width="280" height="100" stroke="#FFFFFF" stroke-width="1"
+                        class="text-line mx-auto d-block">
+                        <text style="font-weight: 900;" x="80" y="80" fill="none" font-size="4.5em">ikid</text>
                     </svg>
                 </div>
             </div>
@@ -53,9 +101,9 @@
                             <img src="https://images.pexels.com/photos/695571/pexels-photo-695571.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
                                 class="card-img" alt="A for Apple ikidS">
                             <div class="card-img-overlay card-bg">
-                                <h4 class="card-title text-center my-5 py-4">
-                                    <strong>A for Apple</strong>
-                                </h4>
+                                <h2 class="card-title text-center my-5 py-4">
+                                    <strong>ABC Phonics</strong>
+                                </h2>
                             </div>
                         </div>
                     </a>
@@ -67,7 +115,7 @@
                                 class="card-img" alt="A B C in ikidS">
                             <div class="card-img-overlay card-bg">
                                 <h2 class="card-title text-center my-5 py-4">
-                                    <strong>A B C</strong>
+                                    <strong>Capital Letters</strong>
                                 </h2>
                             </div>
                         </div>
@@ -80,23 +128,36 @@
                                 class="card-img" alt="a b c in ikidS">
                             <div class="card-img-overlay card-bg">
                                 <h2 class="card-title text-center my-5 py-4">
-                                    <strong>a b c</strong>
+                                    <strong>Small Letters</strong>
                                 </h2>
                             </div>
                         </div>
                     </a>
                 </div>
+                <!-- <div class="col-lg-4 col-sm-6 col-12">
+                    <a href="numbers.html">
+                        <div class="card bg-dark text-white border my-2">
+                            <img src="https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                                class="card-img" alt="1 2 3 in ikidS">
+                            <div class="card-img-overlay card-bg">
+                                <h2 class="card-title text-center my-5 py-4">
+                                    <strong>Mathematics</strong>
+                                </h2>
+                            </div>
+                        </div>
+                    </a>
+                </div> -->
                 <div class="col-lg-4 col-sm-6 col-12">
                     <a href="numbers.html">
-                    <div class="card bg-dark text-white border my-2">
-                        <img src="https://images.pexels.com/photos/1314543/pexels-photo-1314543.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                            class="card-img" alt="1 2 3 in ikidS">
-                        <div class="card-img-overlay card-bg">
-                            <h2 class="card-title text-center my-5 py-4">
-                                <strong>1 2 3</strong>
-                            </h2>
+                        <div class="card bg-dark text-white border my-2">
+                            <img src="https://images.pexels.com/photos/1314543/pexels-photo-1314543.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                                class="card-img" alt="1 2 3 in ikidS">
+                            <div class="card-img-overlay card-bg">
+                                <h2 class="card-title text-center my-5 py-4">
+                                    <strong>123 Numbers</strong>
+                                </h2>
+                            </div>
                         </div>
-                    </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-12">
@@ -105,11 +166,7 @@
                             class="card-img" alt="R G B in ikidS">
                         <div class="card-img-overlay card-bg">
                             <h2 class="card-title text-center my-5 py-4">
-                                <strong>
-                                    <span class="text-danger">R</span>
-                                    <span class="text-success">G</span>
-                                    <span class="text-info">B</span>
-                                </strong>
+                                <strong>Basic Colors</strong>
                             </h2>
                         </div>
                     </div>
@@ -120,7 +177,7 @@
                             class="card-img" alt="Shapes in ikidS">
                         <div class="card-img-overlay card-bg">
                             <h4 class="card-title text-center my-5 py-4">
-                                <strong>Shapes</strong>
+                                <strong>Basic Shapes</strong>
                             </h4>
                         </div>
                     </div>
@@ -131,7 +188,7 @@
                             class="card-img" alt="অ আ in ikids">
                         <div class="card-img-overlay card-bg">
                             <h2 class="card-title text-center my-5 py-4">
-                                <strong>অ আ</strong>
+                                <strong>স্বরবর্ণ</strong>
                             </h2>
                         </div>
                     </div>
@@ -142,7 +199,7 @@
                             class="card-img" alt="ক খ in ikids">
                         <div class="card-img-overlay card-bg">
                             <h2 class="card-title text-center my-5 py-4">
-                                <strong>ক খ</strong>
+                                <strong>ব্যঞ্জনবর্ণ </strong>
                             </h2>
                         </div>
                     </div>
@@ -153,7 +210,7 @@
                             class="card-img" alt="এক দুই in ikidS">
                         <div class="card-img-overlay card-bg">
                             <h2 class="card-title text-center my-5 py-4">
-                                <strong>এক দুই</strong>
+                                <strong>বাংলা সংখ্যা</strong>
                             </h2>
                         </div>
                     </div>
@@ -169,7 +226,7 @@
                     <p class="text-center mt-3">
                         <a class="text-white" href="LICENSE"
                             title="Anupam Mondal - Full stack freelancer website developer - Kolkata, India">
-                            GNU License © ikidS
+                            GNU License © ikid
                         </a>
                     </p>
                 </div>
@@ -185,18 +242,23 @@
         </div>
     </footer>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" 
-    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" 
-    crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
         crossorigin="anonymous"></script>
-    <script src="runapp.js"></script> -->
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+    -->
+    <!-- <script src="runapp.js"></script> -->
 </body>
 
 </html>
