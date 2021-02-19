@@ -68,5 +68,10 @@ h2#prev-cap:hover strong, h2#next-cap:hover strong {
 }
 /* Style for Capital Letters */
 h1#capital-abc strong#capital-abcd {
-  font-size: 6em;
+  font-size: 5em;
+}
+@media screen and (max-width: 768px) {
+  strong#capital-abcd {
+    font-size: 4em !important;
+  }
 }
