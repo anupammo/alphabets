@@ -6,7 +6,7 @@
 .text-line text {
     stroke-dasharray: 800;
     stroke-dashoffset: 800;
-    animation: dash 3s linear infinite, filling 2s ease-in-out infinite;
+    animation: dash 3s ease-in-out infinite, filling 2s ease-in-out infinite;
   }
   
   @keyframes dash {
@@ -44,11 +44,6 @@ a, a:hover {
 h1 strong#capital-abcd {
   font-size: 3em;
 }
-@media screen and (max-width: 575px) {
-  h2#prev-cap strong, h2#next-cap strong {
-    font-size: 2em !important;
-  }
-}
 h2#prev-cap strong, h2#next-cap strong {
   font-size: 2.5em;
   cursor: pointer;
@@ -69,6 +64,11 @@ h2#prev-cap:hover strong, h2#next-cap:hover strong {
 /* Style for Capital Letters */
 h1#capital-abc strong#capital-abcd {
   font-size: 5em;
+}
+@media screen and (max-width: 575px) {
+  h2#prev-cap strong, h2#next-cap strong {
+    font-size: 2em !important;
+  }
 }
 @media screen and (max-width: 768px) {
   strong#capital-abcd {
