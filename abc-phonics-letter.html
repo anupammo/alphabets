@@ -16,11 +16,71 @@
 <body onload="printAlphabets()">
     <header class="header-bg">
         <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="./">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Alphabets
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <!-- <a class="dropdown-item" href="abc-phonics-letter.html">ABC Phonics</a> -->
+                                <a class="dropdown-item" href="abc-phonics.html">ABC Phonics</a>
+                                <a class="dropdown-item" href="capital-letters.html">Capital Letters</a>
+                                <a class="dropdown-item" href="small-letters.html">Small Letters</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                G K
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <!-- <a class="dropdown-item" href="abc-phonics-letter.html">ABC Phonics</a> -->
+                                <a class="dropdown-item" href="shapes.html">Shapes</a>
+                                <a class="dropdown-item" href="colors.html">Colors</a>
+                                <!-- <a class="dropdown-item" href="small-letters.html">Small Letters</a> -->
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                বাংলা
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">স্বরবর্ণ</a>
+                                <a class="dropdown-item" href="#">ব্যঞ্জনবর্ণ</a>
+                                <a class="dropdown-item" href="#">সংখ্যা</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Numbers
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="numbers.html">123</a>
+                                <a class="dropdown-item" href="#">+Sum</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
             <div class="row">
                 <div class="col-12">
-                    <svg width="280" height="200" stroke="#FFFFFF" stroke-width="1"
-                        class="my-4 text-line mx-auto d-block">
-                        <text style="font-weight: 900;" x="0" y="130" fill="none" font-size="6.8em">ikidS</text>
+                    <svg width="280" height="100" stroke="#FFFFFF" stroke-width="1"
+                        class="text-line mx-auto d-block">
+                        <text style="font-weight: 900;" x="80" y="80" fill="none" font-size="4.5em">ikid</text>
                     </svg>
                 </div>
             </div>
@@ -175,7 +235,7 @@
             </div>
         </div>
     </section>
-    <footer>
+    <footer class="mt-5 bg-dark fixed-bottom">
         <div class="container">
             <div class="row">
                 <div class="col-12">
