@@ -94,8 +94,7 @@
             </nav>
             <div class="row">
                 <div class="col-12">
-                    <svg width="280" height="100" stroke="#FFFFFF" stroke-width="1"
-                        class="text-line mx-auto d-block">
+                    <svg width="280" height="100" stroke="#FFFFFF" stroke-width="1" class="text-line mx-auto d-block">
                         <text style="font-weight: 900;" x="80" y="80" fill="none" font-size="4.5em">ikid</text>
                     </svg>
                 </div>
@@ -109,42 +108,14 @@
                 <div class="col-lg-6 col-md-8 col-sm-12 px-0">
                     <div class="card border-white">
                         <div class="card-body">
-                            <div id="carouselExampleIndicators" class="carousel slide carousel-fade"
+                            <!-- <div id="carouselExampleIndicators" class="carousel slide carousel-fade"
                                 data-ride="carousel">
                                 <div class="carousel-inner">
-                                    <div class="carousel-item text-center active">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"
-                                            fill="currentColor" class="bi bi-circle-fill" viewBox="0 0 16 16">
-                                            <circle cx="8" cy="8" r="8" />
-                                        </svg>
-                                    </div>
-                                    <div class="carousel-item text-center">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"
-                                            fill="currentColor" class="bi bi-square-fill" viewBox="0 0 16 16">
-                                            <path
-                                                d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2z" />
-                                        </svg>
-                                    </div>
-                                    <div class="carousel-item text-center">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"
-                                            fill="currentColor" class="bi bi-triangle-fill" viewBox="0 0 16 16">
-                                            <path fill-rule="evenodd"
-                                                d="M7.022 1.566a1.13 1.13 0 0 1 1.96 0l6.857 11.667c.457.778-.092 1.767-.98 1.767H1.144c-.889 0-1.437-.99-.98-1.767L7.022 1.566z" />
-                                        </svg>
-                                    </div>
-                                    <div class="carousel-item text-center">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"
-                                            fill="currentColor" class="bi bi-egg-fill" viewBox="0 0 16 16">
-                                            <path d="M14 10a6 6 0 0 1-12 0C2 5.686 5 0 8 0s6 5.686 6 10z" />
-                                        </svg>
-                                    </div>
-                                    <div class="carousel-item text-center">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"
-                                            fill="currentColor" class="bi bi-hexagon-fill" viewBox="0 0 16 16">
-                                            <path fill-rule="evenodd"
-                                                d="M8.5.134a1 1 0 0 0-1 0l-6 3.577a1 1 0 0 0-.5.866v6.846a1 1 0 0 0 .5.866l6 3.577a1 1 0 0 0 1 0l6-3.577a1 1 0 0 0 .5-.866V4.577a1 1 0 0 0-.5-.866L8.5.134z" />
-                                        </svg>
-                                    </div>
+                                    <div class="carousel-item text-center active"></div>
+                                    <div class="carousel-item text-center"></div>
+                                    <div class="carousel-item text-center"></div>
+                                    <div class="carousel-item text-center"></div>
+                                    <div class="carousel-item text-center"></div>
                                 </div>
                             </div>
                             <ol class="nav justify-content-center mt-5">
@@ -168,7 +139,72 @@
                                     <a class="nav-link btn btn-outline-danger rounded-pill"
                                         data-target="#carouselExampleIndicators" data-slide-to="4">Polygon</a>
                                 </li>
-                            </ol>
+                            </ol> -->
+
+                            <nav>
+                                <div class="nav justify-content-center" id="nav-tab" role="tablist">
+                                    <a class="nav-link active" id="nav-circle-tab" data-toggle="tab" href="#nav-circle"
+                                        role="tab" aria-controls="nav-circle" aria-selected="true">Circle</a>
+                                    <a class="nav-link" id="nav-square-tab" data-toggle="tab" href="#nav-square"
+                                        role="tab" aria-controls="nav-square" aria-selected="false">Square</a>
+                                    <a class="nav-link" id="nav-triangle-tab" data-toggle="tab" href="#nav-triangle"
+                                        role="tab" aria-controls="nav-triangle" aria-selected="false">Triangle</a>
+                                    <a class="nav-link" id="nav-rectangle-tab" data-toggle="tab" href="#nav-rectangle"
+                                        role="tab" aria-controls="nav-rectangle" aria-selected="false">Rectangle</a>
+                                    <a class="nav-link" id="nav-oval-tab" data-toggle="tab" href="#nav-oval" role="tab"
+                                        aria-controls="nav-oval" aria-selected="false">Oval</a>
+                                    <a class="nav-link" id="nav-polygon-tab" data-toggle="tab" href="#nav-polygon"
+                                        role="tab" aria-controls="nav-polygon" aria-selected="false">Polygon</a>
+                                </div>
+                            </nav>
+                            <div class="tab-content" id="nav-tabContent">
+                                <div class="tab-pane text-center my-5 fade show active" id="nav-circle" role="tabpanel"
+                                    aria-labelledby="nav-circle-tab">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor"
+                                        class="bi bi-circle-fill" viewBox="0 0 16 16">
+                                        <circle cx="8" cy="8" r="8" />
+                                    </svg>
+                                </div>
+                                <div class="tab-pane text-center my-5 fade" id="nav-square" role="tabpanel"
+                                    aria-labelledby="nav-square-tab">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor"
+                                        class="bi bi-square-fill" viewBox="0 0 16 16">
+                                        <path
+                                            d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2z" />
+                                    </svg>
+                                </div>
+                                <div class="tab-pane text-center my-5 fade" id="nav-triangle" role="tabpanel"
+                                    aria-labelledby="nav-triangle-tab">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor"
+                                        class="bi bi-triangle-fill" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd"
+                                            d="M7.022 1.566a1.13 1.13 0 0 1 1.96 0l6.857 11.667c.457.778-.092 1.767-.98 1.767H1.144c-.889 0-1.437-.99-.98-1.767L7.022 1.566z" />
+                                    </svg>
+                                </div>
+                                <div class="tab-pane text-center my-5 fade" id="nav-rectangle" role="tabpanel"
+                                    aria-labelledby="nav-rectangle-tab">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor"
+                                        class="bi bi-record-btn-fill" viewBox="0 0 16 16">
+                                        <path
+                                            d="M0 12V4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm8-1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+                                    </svg>
+                                </div>
+                                <div class="tab-pane text-center my-5 fade" id="nav-oval" role="tabpanel"
+                                    aria-labelledby="nav-oval-tab">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor"
+                                        class="bi bi-egg-fill" viewBox="0 0 16 16">
+                                        <path d="M14 10a6 6 0 0 1-12 0C2 5.686 5 0 8 0s6 5.686 6 10z" />
+                                    </svg>
+                                </div>
+                                <div class="tab-pane text-center my-5 fade" id="nav-polygon" role="tabpanel"
+                                    aria-labelledby="nav-polygon-tab">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor"
+                                        class="bi bi-hexagon-fill" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd"
+                                            d="M8.5.134a1 1 0 0 0-1 0l-6 3.577a1 1 0 0 0-.5.866v6.846a1 1 0 0 0 .5.866l6 3.577a1 1 0 0 0 1 0l6-3.577a1 1 0 0 0 .5-.866V4.577a1 1 0 0 0-.5-.866L8.5.134z" />
+                                    </svg>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
